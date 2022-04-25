@@ -1,0 +1,43 @@
+
+//own 1
+// import 'package:flutter/material.dart';
+
+// void main() {
+//   runApp(MaterialApp(
+//     home: Scaffold(
+//       appBar: AppBar(
+//         leading: Icon(
+//           Icons.more_vert,
+//           color: Colors.deepPurple,
+//         ),
+//         leadingWidth: 200,
+//         title: Text('hassan'),
+//       ),
+//       drawer: Drawer(
+//         child: Text(
+//           'hassan',
+//           textAlign: TextAlign.center,
+//         ),
+//         backgroundColor: Colors.grey,
+//       ),
+//       body: Center(
+//         child: Text(
+//           'hassan',
+//           style: TextStyle(
+//             fontSize: 40,
+//             fontWeight: FontWeight.bold,
+//             fontStyle: FontStyle.italic,
+//           ),
+//         ),
+//       ),
+//       backgroundColor: Colors.grey,
+//       floatingActionButton: FloatingActionButton(
+//         onPressed: () {},
+//       ),
+//       bottomNavigationBar: BottomNavigationBar(items: [
+//         BottomNavigationBarItem(icon: Icon(Icons.headphones_sharp)),
+//         BottomNavigationBarItem(icon: Icon(Icons.check_box_outline_blank)),
+//       ]),
+//     ),
+//   ));
+// }
